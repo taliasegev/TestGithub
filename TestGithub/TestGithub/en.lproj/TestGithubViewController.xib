@@ -92,7 +92,7 @@
 					<object class="IBUILabel" id="222165293">
 						<reference key="NSNextResponder" ref="774585933"/>
 						<int key="NSvFlags">292</int>
-						<string key="NSFrame">{{89, 198}, {29, 21}}</string>
+						<string key="NSFrame">{{89, 198}, {28, 21}}</string>
 						<reference key="NSSuperview" ref="774585933"/>
 						<reference key="NSWindow"/>
 						<reference key="NSNextKeyView" ref="291503673"/>
@@ -102,7 +102,7 @@
 						<int key="IBUIContentMode">7</int>
 						<bool key="IBUIUserInteractionEnabled">NO</bool>
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-						<string key="IBUIText">uuu</string>
+						<string key="IBUIText">yea</string>
 						<reference key="IBUITextColor" ref="492029564"/>
 						<nil key="IBUIHighlightedColor"/>
 						<int key="IBUIBaselineAdjustment">0</int>
